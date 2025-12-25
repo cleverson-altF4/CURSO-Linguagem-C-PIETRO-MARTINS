@@ -38,7 +38,7 @@ int main(){
             printf("Digite 0 p/ sair");
             break;
         default:
-            printf("Se errou aprende burro!");
+            printf("burro!");
             break;
         }
 
